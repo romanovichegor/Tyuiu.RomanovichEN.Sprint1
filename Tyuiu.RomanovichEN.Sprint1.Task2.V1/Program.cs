@@ -20,7 +20,7 @@ internal class Program
         Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
         Console.WriteLine("***************************************************************************");
         int x;
-        Console.WriteLine("Введите значение X:");
+        Console.WriteLine("Введите расстояние в километрах:");
         x = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
