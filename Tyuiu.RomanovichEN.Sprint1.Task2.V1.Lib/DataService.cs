@@ -6,7 +6,7 @@ namespace Tyuiu.RomanovichEN.Sprint1.Task2.V1.Lib
     {
         public double ConvertKmToM(int value)
         {
-            return Math.Round(value*0.621,3);
+            return Math.Round(value*1.609,3);
         }
     }
 }
